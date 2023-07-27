@@ -1,0 +1,19 @@
+Purchase Order Accrual:
+Imagine you run a company that manufactures electronics, and you've just received a shipment of electronic components from a supplier. 
+However, the supplier hasn't sent you the invoice yet, and you can't wait to record the expenses until the invoice arrives. 
+So, to accurately reflect your company's financial position, you make a "Purchase Order Accrual."
+This Purchase Order Accrual means that even though you haven't received the invoice, you still recognize the expenses and liabilities related to the received goods. 
+By doing this, you match the cost of the components to the period in which you actually received and used them in your production process, 
+rather than waiting for the invoice to arrive later.
+
+Foreign Currency Revaluation:
+Let's say your company operates internationally, and you have transactions in foreign currencies.
+For instance, you recently purchased raw materials from a supplier in Japan, and the transaction was denominated in Japanese yen. 
+When you initially recorded the transaction in your accounting books, you converted the yen amount to your reporting currency (let's say USD) based on the exchange rate at that time.
+However, currency exchange rates fluctuate, and by the time you prepare your financial statements, the exchange rate may have changed.
+So, to accurately reflect the current value of your foreign currency assets and liabilities, you perform a "Foreign Currency Revaluation."
+
+During this process, you adjust the value of your yen-denominated transaction to the exchange rate at the reporting date. 
+Any resulting gain or loss is then recorded in your income statement. 
+This adjustment ensures that changes in currency exchange rates don't distort your company's financial position and 
+helps you present a more accurate financial picture to stakeholders.

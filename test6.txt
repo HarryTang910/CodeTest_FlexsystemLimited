@@ -1,0 +1,8 @@
+FIFO (First-In, First-Out): It assumes that the oldest products are sold first. COGS is calculated using the cost of the oldest products.
+
+Moving Average: It finds the average cost of all products by considering old and new costs. COGS is then calculated based on this average cost.
+
+LIFO (Last-In, First-Out): It assumes that the newest products are sold first. COGS is calculated using the cost of the newest products.
+
+Specific Identification (Lot): This method is for businesses that can track the cost of each individual item sold. 
+COGS is calculated by adding up the costs of the specific items sold.

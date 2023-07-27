@@ -1,0 +1,19 @@
+Window is created.
+Window is created.
+Window Type: ListBox
+Window is created.
+Window Type: Button
+Window: drawing Window at 1, 2
+Window: drawing Window at 3, 4
+Writing string to the listbox: Stand alone list box
+Drawing a button at 5, 6
+
+Window is created.
+Window is created.
+Window Type: ListBox
+Window is created.
+Window Type: Button
+Window: drawing Window at 1, 2
+Window: drawing Window at 3, 4
+Writing string to the listbox: List box in array
+Drawing a button at 5, 6
